@@ -48,7 +48,7 @@ The final CSV went straight into Power BI where I built a dashboard with dynamic
    ```
    python parsing.py
    ```
-4. Open the generated `parsed_logs3.csv` in Power BI Desktop
+4. Open the generated `parsed_logs.csv` in Power BI Desktop
 5. Load the `.pbix` dashboard file and refresh the data source to point to your CSV
 
 ---
