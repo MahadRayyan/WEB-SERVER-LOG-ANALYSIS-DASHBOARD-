@@ -1,7 +1,7 @@
 import re
 import pandas as pd
 
-log_file = "access_trimmed1.log"
+log_file = "access.log"
 
 with open(log_file, "r", encoding="utf-8") as file:
     lines = file.readlines()
