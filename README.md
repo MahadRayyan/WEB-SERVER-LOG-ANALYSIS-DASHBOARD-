@@ -52,7 +52,12 @@ The final CSV went straight into Power BI where I built a dashboard with dynamic
 5. Load the `.pbix` dashboard file and refresh the data source to point to your CSV
 
 ---
+## 📂 Download Dashboard
 
+Due to file size limits, download the PBIX file here:
+https://drive.google.com/file/d/1llRsmOL5gjdmFB4hSWsutvA09xpKCNNF/view?usp=drive_link
+
+---
 ### 📁 Preview
 
 <img width="1227" height="683" alt="image" src="https://github.com/user-attachments/assets/dff54aa4-ffdf-497a-87e7-49ab093ca1cd" />
